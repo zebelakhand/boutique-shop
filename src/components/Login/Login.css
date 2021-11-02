@@ -1,0 +1,12 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(42, 201, 201);
+}
+
+.input-container input{
+    margin: 10px;
+}

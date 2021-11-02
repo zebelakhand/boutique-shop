@@ -1,0 +1,86 @@
+[
+    {
+        "key": 1,
+        "category": "watch",
+        "name": "Rolex-115 Watch",
+        "img": "https://image.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg",
+        "price": 287.94
+    },
+    {
+        "key": 2,
+        "category": "watch",
+        "name": "Omega-500  Watch",
+        "img": "https://image.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg",
+        "price": 685.40
+    },
+    {
+        "key": 3,
+        "category": "watch",
+        "name": "Rolex-Modern Watch",
+        "img": "https://img.freepik.com/free-psd/smartwatch-screen-mockup-digital-device_53876-98737.jpg?size=338&ext=jpg",
+        "price": 870.94
+    },
+    {
+        "key": 4,
+        "category": "watch",
+        "name": "Omega-450 Watch",
+        "img": "https://image.freepik.com/free-vector/men-s-leather-wrist-watch-vector-hand-drawn-fashion-sketch_53876-143477.jpg",
+        "price": 157.94
+    },
+    {
+        "key": 5,
+        "category": "bag",
+        "name": "Elegance Bag",
+        "img": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg",
+        "price": 422.67
+    },
+    {
+        "key": 6,
+        "category": "bag",
+        "name": "Louis Vonton Bag",
+        "img": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80.jpg",
+        "price": 392
+    },
+    {
+        "key": 7,
+        "category": "bag",
+        "name": "Elegance Latest Bag",
+        "img": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-bag_74190-4900.jpg",
+        "price": 287.94
+    },
+    {
+        "key": 8,
+        "category": "bag",
+        "name": "Louis Vonton New Bag",
+        "img": "https://image.freepik.com/free-photo/beautiful-elegance-luxury-fashion-pink-women-handbag_1203-7653.jpg",
+        "price": 224
+    },
+    {
+        "key": 9,
+        "category": "shoe",
+        "name": "Apex Shoe",
+        "img": "https://image.freepik.com/free-photo/brown-man-s-leather-derby-shoes_53876-97144.jpg",
+        "price": 322
+    },
+    {
+        "key": 10,
+        "category": "shoe",
+        "name": "Nike-942 Shoe",
+        "img": "https://image.freepik.com/free-photo/pair-trainers_144627-3799.jpg",
+        "price": 434.65
+    },
+    {
+        "key": 11,
+        "category": "shoe",
+        "name": "Adidas Shoe",
+        "img": "https://image.freepik.com/free-photo/white-high-top-sneakers-unisex-footwear-fashion_53876-106036.jpg",
+        "price": 421
+    },
+    {
+        "key": 12,
+        "category": "shoe",
+        "name": "Lotto Shoe",
+        "img": "https://image.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg",
+        "price": 221.45
+    }
+]
